@@ -2,10 +2,9 @@
 
 Hi, I'm Tania — a town planner who got tired of waiting for better tools and decided to build them.
 
-I've spent years working in low-mid rise town planning and pre-construction documentation. Along the way I kept running into the same problem: the software just wasn't good enough. So I have completed studies at Dev Academy to bring my UNIX code experience into the new millenium and solidify my wild vibe code deep dives to fix that!
+I've spent years working in low-mid rise town planning and pre-construction documentation. But there wasnt anything I would use or recommend to my clients to use. So I took a look to my past UNIX code experience, jumped into the new millenium with a wild vibe code deep dive and then to Dev Academy to solidify my experience! 
 
-I'm currently building an urban planning professionals portal — a workflow tool for architectural designers to manage clients, jobs, documents, and consultants in one place.
-All my other thoughts are stored in Vercel for rainy days. 
+I'm currently building an urban planning professionals portal — a workflow tool for architectural designers to manage clients, jobs, documents, and consultants in one place. In the mean time - feel free to check out some of my completed Dev Academy projects or ask me about my Vercel thought projects. 
 
 # What I'm working with:
 TypeScript · React · Next.js · Node.js · PostgreSQL · Tailwind CSS
