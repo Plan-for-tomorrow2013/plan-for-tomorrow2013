@@ -16,7 +16,7 @@ Civic tech · Planning and built environment tools · AI-assisted compliance wor
 # Where I have come from:
 Radiation Therapist, Travel Agent, Application Support (UNIX), Accounts team leader, Town Planner, Sustainability Assessor and of course, the most fun side gigs - dairy farmer, waitress, events management and WOW dresser! 
 
-# What I'm building
+# What I'm building:
 
 I am trying to track everything I'm working on — from my Dev Academey projects to personal ideas — on my public Projects Board. Feel free to have a look at what's in progress, what's shipped, and what's on my mind.
 
