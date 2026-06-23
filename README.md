@@ -21,4 +21,4 @@ I am trying to track everything I'm working on — from my Dev Academey projects
 
 👉 [Check out my Projects Board](https://github.com/users/Plan-for-tomorrow2013/projects/1)
 
-📫 planfortomorrow@outlook.com 🔗 LinkedIn (https://www.linkedin.com/in/tania-hannaford-05218a13/) 📍 New Zealand & NSW Australia
+📫 planfortomorrow@outlook.com 🔗 [LinkedIn](https://www.linkedin.com/in/tania-hannaford-05218a13/) 📍 New Zealand & NSW Australia
